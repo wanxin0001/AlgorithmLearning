@@ -1,0 +1,1 @@
+// Write it in https://leetcode.com/problems/shortest-distance-from-all-buildings/description/
